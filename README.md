@@ -1,4 +1,4 @@
-# Synthetic Data Generator (Week 3 Day 5)
+# Synthetic Data Generator 
 
 Generate synthetic tabular datasets with several LLMs taking turns in batches, then compare them.
 
